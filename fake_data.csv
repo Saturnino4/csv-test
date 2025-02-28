@@ -1,29 +1,21 @@
-data_mov,da_ccb,documento,tipo_movimento,debito,credito,saldo_pos
-10/10/2024,123456-7,123456,OPR ref. 131325,4560,0,12000
-10/10/2024,123456-7,111222,TAXA APLICADA ref. 131325,9,0,12000
-10/10/2024,123456-7,333444,TAXA APLICADA ref. 131325,9,0,12000
-10/10/2024,123456-7,556699,TAXA APLICADA ref. 131325,9,0,12000
-12/10/2024,123457-9,878787,OPR ref. 131326,4560,0,12000
-12/10/2024,123457-9,656565,TAXA APLICADA ref. 131326,9,0,12000
-12/10/2024,123457-9,747474,TAXA APLICADA ref. 131326,9,0,12000
-12/10/2024,123457-9,959595,TAXA APLICADA ref. 131326,9,0,12000
-15-10-2024,123456-8,454543,OPR ref. 131354,67500,0,12000
-15-10-2024,123456-8,998889,TAXA APLICADA ref. 131354,9,0,12000
-15-10-2024,123456-8,776776,TAXA APLICADA ref. 131354,9,0,12000
-15-10-2024,123456-8,665645,TAXA APLICADA ref. 131354,9,0,12000
-16-10-2024,123456-0,546534,OPR ref. 131332,12007,0,12000
-16-10-2024,123456-0,212322,TAXA APLICADA ref. 131332,9,0,12000
-16-10-2024,123456-0,90909,TAXA APLICADA ref. 131332,9,0,12000
-16-10-2024,123456-0,99098,TAXA APLICADA ref. 131332,9,0,12000
-18-10-2024,123456-2,543211,OPR ref. 131322,4323,0,12000
-18-10-2024,123456-2,444444,TAXA APLICADA ref. 131322,9,0,12000
-18-10-2024,123456-2,333333,TAXA APLICADA ref. 131322,9,0,12000
-18-10-2024,123456-2,666666,TAXA APLICADA ref. 131322,9,0,12000
-22-10-2024,123456-1,567865,OPR ref. 131222,887700,0,12000
-22-10-2024,123456-1,222332,TAXA APLICADA ref. 131222,9,0,12000
-22-10-2024,123456-1,332345,TAXA APLICADA ref. 131222,9,0,12000
-22-10-2024,123456-1,665547,TAXA APLICADA ref. 131222,9,0,12000
-28-10-2024,123456-1,555433,OPR ref. 002211,887700,0,12000
-28-10-2024,123456-1,890633,TAXA APLICADA ref. 002211,9,0,12000
-28-10-2024,123456-1,334245,TAXA APLICADA ref. 002211,9,0,12000
-28-10-2024,123456-1,766589,TAXA APLICADA ref. 002211,9,0,12000
+id,name,age,city,country,gender,email,score
+1,Alice,25,New York,USA,Female,alice@example.com,88
+2,Bob,30,Los Angeles,USA,Male,bob@example.com,92
+3,Charlie,22,London,UK,Male,charlie@example.com,85
+4,David,28,Paris,France,Male,david@example.com,78
+5,Emma,26,Berlin,Germany,Female,emma@example.com,95
+6,Frank,32,Madrid,Spain,Male,frank@example.com,80
+7,Gina,24,Rome,Italy,Female,gina@example.com,87
+8,Henry,27,Sydney,Australia,Male,henry@example.com,90
+9,Irene,29,Toronto,Canada,Female,irene@example.com,93
+10,Jack,31,Dubai,UAE,Male,jack@example.com,76
+11,Kate,23,Sao Paulo,Brazil,Female,kate@example.com,84
+12,Louis,33,Moscow,Russia,Male,louis@example.com,82
+13,Mary,25,Seoul,South Korea,Female,mary@example.com,89
+14,Nathan,28,Tokyo,Japan,Male,nathan@example.com,91
+15,Olivia,26,Amsterdam,Netherlands,Female,olivia@example.com,88
+16,Paul,30,Beijing,China,Male,paul@example.com,85
+17,Quincy,27,Zurich,Switzerland,Male,quincy@example.com,94
+18,Rachel,24,Mexico City,Mexico,Female,rachel@example.com,87
+19,Steven,35,Cape Town,South Africa,Male,steven@example.com,90
+20,Tina,29,Mumbai,India,Female,tina@example.com,92
